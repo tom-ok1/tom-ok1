@@ -21,7 +21,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasakitimaru&&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasakitimaru&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasakitimaru&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sasakitimaru&theme=gruvbox)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sasakitimaru&theme=gruvbox&utcOffset=9) -->
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sasakitimaru)](https://github.com/anuraghazra/github-readme-stats) -->
 
