@@ -8,10 +8,10 @@
     <img height="20" src="https://img.shields.io/github/followers/tom-ok1?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/tom-ok1">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tom-ok1/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sasakitimaru/posts.svg" />
   </a>
   <//qiita.com/tom-ok1">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tom-ok1/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sasakitimaru/contributions.svg" />
   </a>
 </p>
 
