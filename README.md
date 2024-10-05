@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-ok1)](https://github.com/tom-ok1/github-readme-stats) -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tom-ok1&theme=gruvbox)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-ok1&&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tom-ok1&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tom-ok1&theme=gruvbox)
